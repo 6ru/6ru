@@ -10,4 +10,4 @@
 
 ###
 
-[<img align="left" alt="Vex🤓" width=736x414 src="https://cdn.discordapp.com/attachments/825093024988004393/874912573345116170/514f93b66b3d4fc2b681d18be233e175.png" />]
+[<img align="right" alt="Vex🤓" width=736x414 src="https://cdn.discordapp.com/attachments/825093024988004393/874912573345116170/514f93b66b3d4fc2b681d18be233e175.png" />]
